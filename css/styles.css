@@ -1,0 +1,27 @@
+body {
+	background-image: url('../images/bg3.jpg');
+	background-size: 100%;
+}
+
+#logo {
+	text-shadow: 2px 2px black;
+}
+#heading {
+	text-shadow: 2px 1px white;
+}
+#box {
+	border: 2px solid red;
+	padding: 5px;
+	height: 1000px;
+	overflow: auto;
+}
+
+#dishName1,#dishName2,#dishName3 {
+	text-shadow: 2px 2px red;
+}
+
+.col-md-4 {
+	padding: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
